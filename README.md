@@ -1,4 +1,6 @@
 # CloudFire-uptime
 
-- Como Hospedar?
-# Entre em nosso Discord
+# Como Hospedar?
+
+
+> Entre em nosso Discord
